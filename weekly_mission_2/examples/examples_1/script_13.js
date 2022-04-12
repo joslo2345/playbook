@@ -1,4 +1,6 @@
-// Ejemplo 14: Uso de some, este método validará todos los elementos de la lista, y si alguno cumple con la validación indicada, regresará true, de lo contrario será false.
+/* Ejemplo 14: Uso de some, este método validará todos los elementos de la lista, 
+y si alguno cumple con la validación indicada, regresará true, de lo contrario será false.
+*/
 
 // lista de elementos
 const bools = [true, true, false, true]

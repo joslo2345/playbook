@@ -6,6 +6,7 @@ const scores = [
     { name: 'E', score: 50 },
     { name: 'M', score: 85 },
     { name: 'J', score: 100 },
+    { name: 'K', score: 20 },
   ]
   
   const scoresGreaterEighty = scores.filter((score) => score.score > 80)
