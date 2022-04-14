@@ -13,5 +13,5 @@ const pullRequest = {
     }
 }
 
-console.log(pullRequest.getTitleAndAutor())
-console.log(`Status: ${pullRequest.getStatus()}`)
+console.log(pullRequest.getTitleAndAutor());
+console.log(`Status: ${pullRequest.getStatus()}`);

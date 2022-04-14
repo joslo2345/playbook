@@ -25,8 +25,8 @@ const issue = {
 }
 console.log('Title of the issue' + ' "' + issue.title + '" ');
 console.log('Author of the issue ' + issue.author);
-console.log('\n\n')
-issue.getTitleAndAuthor()
+console.log('\n\n');
+issue.getTitleAndAuthor();
 console.log("General info: \n", issue.getGeneralInfo());
 
 
