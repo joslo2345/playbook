@@ -1,5 +1,4 @@
 const post = {
-    length: 300,
     hashtags: ['launchx','innovaccion'],
     mentions: ['Jose','Rodrigo'],
     message: 'este es un gran curso @Jose @Rodrigo #launchx #innovaccion',
