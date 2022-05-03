@@ -10,11 +10,20 @@ Proyectos desarrollados en la semana 5:
 |`Cliente Servidor`|4|[Link al repo](https://github.com/joslo2345/misionjs_semana4_trellojs)  
 
 Evidencias de la practica 1 'Bot Telegram':  
-![Bot Telegram Evidencia 1](./src/botTelegramEvidencia1.PNG "evidencia 1 de bot telegram")
+<figure>
+    <img src="./src/botTelegramEvidencia1.PNG "
+         alt="evidencia 1 de bot telegram"
+         width="300" height="500">
+</figure>
 
-![Bot Telegram Evidencia 2](./src/botTelegramEvidencia2.PNG "evidencia 2 de bot telegram")
+<figure>
+    <img src="./src/botTelegramEvidencia2.PNG  "
+         alt="evidencia 2 de bot telegram"
+         width="300" height="500">
+</figure>
 
-![Bot Telegram Evidencia 3](./src/botTelegramEvidencia3.jpeg "evidencia 3 de bot telegram")
-
-playbook/weekly_mission_5/src
-src/botTelegramEvidencia1.PNG
+<figure>
+    <img src="./src/botTelegramEvidencia3.jpeg"
+         alt="evidencia 3 de bot telegram"
+         width="300" height="500">
+</figure>
